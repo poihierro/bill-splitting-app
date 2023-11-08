@@ -26,7 +26,7 @@ I Designed & Coded app, which is Cross Platform, and simple to use. In the same 
 - 💵 view total expense of group
 - 💸 See who paid/not paid
 - ₹ UPI Payments integration
-- 👨🏻‍🎨 Clean & Minimal design
+- 👨🏻‍🎨 Clean & Minimal design 
 - ✌️ Cross Platform App, Supports iOS & Android
 
 

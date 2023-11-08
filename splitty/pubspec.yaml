@@ -12,23 +12,23 @@ dependencies:
     sdk: flutter
 
   flutter_native_splash: ^2.2.8
-  pinput: ^2.2.12
+  pinput: ^3.0.1
   flutter_riverpod: ^2.0.0-dev.9
   cached_network_image: ^3.2.1
   intl_phone_field: ^3.1.0
   url_launcher: ^6.1.4
   timeago: ^3.3.0
 
-  firebase_core: ^1.21.1
-  firebase_auth: ^3.7.0
-  cloud_firestore: ^3.4.6
+  firebase_core: ^2.21.0
+  firebase_auth: ^4.12.1
+  cloud_firestore: ^4.12.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^2.0.0
-  flutter_launcher_icons: "^0.10.0"
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
 
 flutter_icons:
   android: true

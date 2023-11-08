@@ -181,6 +181,7 @@ class _CreateBillScreenState extends ConsumerState<CreateBillScreen> {
         navigatorState.pop();
       }
     } catch (e) {
+      // ignore: use_build_context_synchronously
       showAlertDialog(
         context: context,
         title: "oops!",
